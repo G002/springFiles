@@ -27,7 +27,6 @@ public class StandardOutMessageRenderer implements MessageRenderer {
     public MessageProvider getMessageProvider(){
         return this.messageProvider;
 
-
         }
 
 
